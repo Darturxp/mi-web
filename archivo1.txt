@@ -1,2 +1,3 @@
 soy un cahancito feliz
 chanchito feliz
+esto es una nueva manera de hacer un git status
